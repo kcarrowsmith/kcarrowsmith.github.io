@@ -1,0 +1,16 @@
+---
+title: ""
+image: linum.jpeg
+about:
+  id: hero-heading
+  template: marquee
+  image-shape: rectangle
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+::: {#hero-heading}
+Hello! I am a community ecologist studying variation in plant-pollinator interactions. I recently finished my PhD at the University of Washington and will be starting an NSF post-doc at the University of Texas with Dr. Shalene Jha in September 2023.
+:::

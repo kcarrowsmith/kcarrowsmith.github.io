@@ -1,0 +1,7 @@
+---
+title: "Temperature and Interaction Occurrence"
+categories: [news, code, analysis]
+image: "snow.jpeg"
+---
+
+In this project, I examine how temperature affects plant-pollinator interaction occurrence.

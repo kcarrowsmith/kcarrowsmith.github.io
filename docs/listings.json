@@ -1,0 +1,32 @@
+[
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/project_1/index.html",
+      "/projects/project_2/index.html"
+    ]
+  },
+  {
+    "listing": "/talks/index.html",
+    "items": [
+      "/talks/talk_1/index.html",
+      "/talks/talk_2/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/post-with-code/index.html",
+      "/blog/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/projects.html",
+    "items": [
+      "/projects/Bombus/index.html",
+      "/projects/Distribution/index.html",
+      "/projects/Rewiring/index.html",
+      "/projects/Temperature/index.html"
+    ]
+  }
+]

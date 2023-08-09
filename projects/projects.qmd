@@ -1,0 +1,45 @@
+---
+title: "Projects"
+description: |
+  Here are some of the projects that I have been working on lately. This page is under construction.
+listing:
+  - id: current
+    max-description-length: 500
+    image-height: 150px
+    fields: [image, title, description]
+    contents: 
+      - Distribution
+      - Bombus
+    type: grid
+    grid-item-border: false
+  
+  - id: phd
+    max-description-length: 500
+    image-height: 150px
+    fields: [image, title, description]
+    contents: 
+      - Rewiring
+      - Temperature
+    type: grid
+    grid-item-border: false
+    
+---
+
+## Current Projects
+
+This is my ongoing work.
+
+::: {#current}
+:::
+
+## Doctoral Projects
+
+These projects form the three chapters of my dissertation.
+
+::: {#phd}
+:::
+
+
+
+
+

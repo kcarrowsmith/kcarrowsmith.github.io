@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  navbar:
+    background: dark
+    search: false
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "About"
+        file: about.qmd 
+      - text: "Projects"
+        href: projects/projects.qmd
+  title: "Dr. Kaysee Arrowsmith"
+
+  page-footer:
+    left: "&copy; Copyright 2023, Kaysee Arrowsmith"
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+
+  sidebar:
+    pinned: true
+    align: center
+    style: "docked"
+    collapse-level: 1
+
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+

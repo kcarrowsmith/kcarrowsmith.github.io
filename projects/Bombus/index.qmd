@@ -1,0 +1,6 @@
+---
+title: "Bumble Bee Niche Dynamics"
+image: "bombus_pollen.jpeg"
+---
+
+How are bumble bee niche dynamics affected by genetics, temperature, body size, and phenology?

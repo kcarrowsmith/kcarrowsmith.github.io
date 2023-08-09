@@ -1,0 +1,6 @@
+---
+title: "Distribution of Plant-Pollinator Interactions"
+image: "bombus.jpeg"
+---
+
+Using data collected by the Pacific Northwest Bumble Bee Atlas, I examine how models that independently estimate plants' and pollinators' spatial distributions perform in predicting where interactions between specific plant and pollinator species occur.
