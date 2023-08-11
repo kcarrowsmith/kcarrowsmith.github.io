@@ -1,7 +1,14 @@
 ---
 title: "Temperature and Interaction Occurrence"
-categories: [news, code, analysis]
 image: "snow.jpeg"
 ---
 
-In this project, I examine how temperature affects plant-pollinator interaction occurrence.
+![](snow.jpeg)
+
+I have been interested in how rising temperatures, along with other consequences of climate change, are going to affect pollinators since my first experience in the world of pollination ecology---working in Dr. Claire Kremen's lab at UC Berkeley in 2012. As a doctoral student, I was able to directly examine the effects of temperature on plant-pollination interaction occurrence. I surveyed plant-pollinator communities multiple times over the course of individual days in order to obtain a range of plant-pollinator interaction events at different temperatures, but within a constant plant community. This project worked in large part because of the high amount of thermal variation within individual days in the subalpine ecosystems found at the Rocky Mountain Biological Laboratory.
+
+![*Each line represents the temperature on a single day in 2021. The highlighted line shows the temperature for a single day---July 17, 2021.*](kp-07172021.png)
+
+I found that temperature influences the distribution of interactions between particular pollinator taxa and the range of flowers available on discrete days. This research provides really interesting evidence that pollinator foraging preference may be influenced by the temperature at which pollinators are foraging.
+
+**Next up for this project**: I will extend this analysis to the pollen loads carried by the pollinators that I studied in order to see if the effects of ambient temperature can be seen not only in individual visitation events but also in overall pollen carriage. I also hope to eventually examine variation in floral rewards (pollen nutrient content, nectar volume and sugar concentration) across different temperatures in this system in order to connect the trends that I have observed with specific mechanistic drivers.

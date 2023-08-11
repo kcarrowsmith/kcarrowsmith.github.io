@@ -130,7 +130,7 @@
     "href": "index.html",
     "title": "Dr. Kaysee Arrowsmith",
     "section": "",
-    "text": "Hello! I am a community ecologist studying variation in plant-pollinator interactions. I recently finished my PhD at the University of Washington and will be starting an NSF post-doc at the University of Texas with Dr. Shalene Jha in September 2023.\nThis website is currently under construction. If you do not see what you are looking for here, please email me at kcarrows [at] uw [dot] edu."
+    "text": "Hello! I am a community ecologist studying variation in plant-pollinator interactions. I recently finished my PhD at the University of Washington with Dr. Berry Brosi and will be starting an NSF Postdoctoral Fellowship at the University of Texas with Dr. Shalene Jha in September 2023.\nThis website is currently under construction. If you do not see what you are looking for here, please email me at kcarrows [at] uw [dot] edu."
   },
   {
     "objectID": "projects/index.html#doctoral-projects",
@@ -172,7 +172,7 @@
     "href": "projects/projects.html#doctoral-projects",
     "title": "Projects",
     "section": "Doctoral Projects",
-    "text": "Doctoral Projects\nThese projects form the three chapters of my dissertation.\n\n\n\n\n\n\n\n\n\n\nPlant-Pollinator Interaction Variation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTemperature and Interaction Occurrence\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Doctoral Projects\nThese projects form the three chapters of my dissertation.\n\n\n\n\n\n\n\n\n\n\nSpatial Variation in Plant-Pollinator Interactions\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTemperature and Interaction Occurrence\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html#academic-appointments",
@@ -193,27 +193,27 @@
     "href": "projects/Temperature/index.html",
     "title": "Temperature and Interaction Occurrence",
     "section": "",
-    "text": "In this project, I examine how temperature affects plant-pollinator interaction occurrence."
+    "text": "I have been interested in how rising temperatures, along with other consequences of climate change, are going to affect pollinators since my first experience in the world of pollination ecology—working in Dr. Claire Kremen’s lab at UC Berkeley in 2012. As a doctoral student, I was able to directly examine the effects of temperature on plant-pollination interaction occurrence. I surveyed plant-pollinator communities multiple times over the course of individual days in order to obtain a range of plant-pollinator interaction events at different temperatures, but within a constant plant community. This project worked in large part because of the high amount of thermal variation within individual days in the subalpine ecosystems found at the Rocky Mountain Biological Laboratory.\n\n\n\nEach line represents the temperature on a single day in 2021. The highlighted line shows the temperature for a single day—July 17, 2021.\n\n\nI found that temperature influences the distribution of interactions between particular pollinator taxa and the range of flowers available on discrete days. This research provides really interesting evidence that pollinator foraging preference may be influenced by the temperature at which pollinators are foraging.\nNext up for this project: I will extend this analysis to the pollen loads carried by the pollinators that I studied in order to see if the effects of ambient temperature can be seen not only in individual visitation events but also in overall pollen carriage. I also hope to eventually examine variation in floral rewards (pollen nutrient content, nectar volume and sugar concentration) across different temperatures in this system in order to connect the trends that I have observed with specific mechanistic drivers."
   },
   {
     "objectID": "projects/Rewiring/index.html",
     "href": "projects/Rewiring/index.html",
-    "title": "Plant-Pollinator Interaction Variation",
+    "title": "Spatial Variation in Plant-Pollinator Interactions",
     "section": "",
-    "text": "In this project I examine biotic and abiotic drivers of rewiring among plant-pollinator communities."
+    "text": "In one chapter of my dissertation, I examined biotic and abiotic drivers of rewiring between plant-pollinator communities. One of my inspirations for conducting this project was my interest in interaction variation across spatial gradients. Prior studies have shown that rewiring increases with increasing distance between sites. I was curious what biotic and abiotic variables could underlie these spatial patterns.\nUsing a structural equation modeling framework, I found that temperature variation and plant community composition directly drove rewiring among 18 sites surrounding the Rocky Mountain Biological Laboratory. Interestingly, with these proximal drivers of plant-pollinator interaction rewiring included in my statistical models, geographic distance did not directly drive rewiring on its own; rather, it indirectly influenced rewiring via these two direct drivers.\n\nNext up for this project: I will be integrating pollen load data collected from the insect specimens in this project to see how pollen load trends and visitation trends vary across this gradient. I am particularly excited to be able to examine both individual-level and community-level foraging trends using these pollen loads."
   },
   {
     "objectID": "projects/Distribution/index.html",
     "href": "projects/Distribution/index.html",
     "title": "Distribution of Plant-Pollinator Interactions",
     "section": "",
-    "text": "Using data collected by the Pacific Northwest Bumble Bee Atlas, I examine how models that independently estimate plants’ and pollinators’ spatial distributions perform in predicting where interactions between specific plant and pollinator species occur."
+    "text": "In 2022, I received a Northwest Climate Adaptation Science Center fellowship to examine how climate change is likely to influence the distribution of bumble bees, their host plants, and the interactions between these two guilds. For this fellowship, I built species distribution models for two bumble bees designated Species of Greatest Conservation Need by the Washington Department of Fish and Wildlife—Bombus morrisoni and Bombus occidentalis—using data collected for the Pacific Northwest Bumble Bee Atlas.\nIn an ongoing extension of this project, I am evaluating how models that independently estimate plants’ and pollinators’ spatial distributions perform in predicting where interactions between specific plant and pollinator species occur."
   },
   {
     "objectID": "projects/Bombus/index.html",
     "href": "projects/Bombus/index.html",
     "title": "Bumble Bee Niche Dynamics",
     "section": "",
-    "text": "How are bumble bee niche dynamics affected by genetics, temperature, body size, and phenology?"
+    "text": "As an NSF Postdoctoral Fellow, I will be examining how bumble bee niche dynamics are affected by genetics, temperature, body size, and phenology. In the summer of 2023, I am collecting pilot data at the Rocky Mountain Biological Laboratory in order to begin this project with Dr. Shalene Jha in the fall of 2023. I intend to collect data for this project in the summers of 2024 and 2025. Stay tuned here to see what I find!"
   }
 ]

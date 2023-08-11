@@ -3,4 +3,8 @@ title: "Distribution of Plant-Pollinator Interactions"
 image: "bombus.jpeg"
 ---
 
-Using data collected by the Pacific Northwest Bumble Bee Atlas, I examine how models that independently estimate plants' and pollinators' spatial distributions perform in predicting where interactions between specific plant and pollinator species occur.
+![](bombus.jpeg)
+
+In 2022, I received a [Northwest Climate Adaptation Science Center fellowship](https://nwcasc.uw.edu/science/project/mapping-the-effects-of-climate-change-on-plant-pollinator-communities/) to examine how climate change is likely to influence the distribution of bumble bees, their host plants, and the interactions between these two guilds. For this fellowship, I built species distribution models for two bumble bees designated *Species of Greatest Conservation Need* by the Washington Department of Fish and Wildlife---*Bombus morrisoni* and *Bombus occidentalis*---using data collected for the [Pacific Northwest Bumble Bee Atlas](https://www.pnwbumblebeeatlas.org/).
+
+In an ongoing extension of this project, I am evaluating how models that independently estimate plants' and pollinators' spatial distributions perform in predicting where interactions between specific plant and pollinator species occur.
