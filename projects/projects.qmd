@@ -1,7 +1,7 @@
 ---
-title: "Projects"
+title: "Research"
 description: |
-  Here are some of the projects that I have been working on lately. This page is under construction.
+  My research generally involves explores variation in plant-pollinator interaction patterns, looking at the drivers and consequences of such variation. Most of my work involves empirical data collected in the field, often at the Rocky Mountain Biological Laboratory. I also utilize pollen DNA metabarcoding for much of my current work and am dabbling in species distribution modeling.
 listing:
   - id: current
     max-description-length: 500
@@ -20,6 +20,7 @@ listing:
     contents: 
       - Rewiring
       - Temperature
+      - SeedProd
     type: grid
     grid-item-border: false
     
