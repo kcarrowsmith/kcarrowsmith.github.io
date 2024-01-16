@@ -9,6 +9,9 @@ about:
     - icon: download
       text: CV
       href: https://github.com/kcarrowsmith/kcarrowsmith.github.io/blob/de46e34c67379143b000db55f80734274c7ebfc7/KCA_CV.pdf
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=2DlSCv4AAAAJ&hl=en&oi=ao
     - icon: github
       text: Github
       href: https://github.com/kcarrowsmith

@@ -27,14 +27,14 @@ listing:
 
 ## Current Projects
 
-This is my ongoing work.
+These are just a few examples of my current work. My postdoctoral projects mainly focus on examining individual-level pollinator niche dynamics and how genetics, physiology, and environmental pressures influence these individual niches. Much of my work involves examining pollen collected by bees, and toward that end, I have begun exploring novel ways to improve pollen identification and quantification. I also have interests in climate-driven shifts in pollinator ranges and interactions.
 
 ::: {#current}
 :::
 
 ## Doctoral Projects
 
-These projects form the three chapters of my dissertation.
+These projects form the three chapters of my dissertation. Links to publications are included where appropriate. A full copy of my dissertation can be found [here](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/50709/Arrowsmith_washington_0250E_26069.pdf?sequence=1).
 
 ::: {#phd}
 :::
