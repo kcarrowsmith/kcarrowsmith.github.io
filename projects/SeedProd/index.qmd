@@ -13,10 +13,6 @@ I also found that both the total abundance of bumble bees (regardless of species
 
 This project was published in [Ecosphere in 2023](doi.org/10.1002/ecs2.4569).
 
-::: {#figs layout-ncol=2}
-
-![](bomabund-all.png)
-![](tongue-all.png)
-
+::: {#figs layout-ncol="2"}
+![](bomabund-all.png){width=50%} ![](tongue-all.png){width=50%}
 :::
-
