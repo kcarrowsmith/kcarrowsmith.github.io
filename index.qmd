@@ -8,8 +8,8 @@ about:
 ---
 
 ::: {#hero-heading}
-Hello! I am a community ecologist studying variation in plant-pollinator interactions. I recently finished my PhD at the University of Washington with [Dr. Berry Brosi](https://www.brosilab.org/) and will be starting an NSF Postdoctoral Fellowship at the University of Texas with [Dr. Shalene Jha](https://w3.biosci.utexas.edu/jha/) in September 2023.
+Hello! I am a community ecologist studying variation in plant-pollinator interactions. I am currently an NSF Postdoctoral Fellow at the University of Texas with [Dr. Shalene Jha](https://w3.biosci.utexas.edu/jha/). Previously, I worked with [Dr. Berry Brosi](https://www.brosilab.org/) at Emory University and the University of Washington, where I received my PhD in July 2023.
 
-This website is currently under construction. If you do not see what you are looking for here, please email me at kcarrows [at] uw [dot] edu.
+This website is currently under construction. If you do not see what you are looking for here, please email me at kcarrows [at] utexas [dot] edu.
 
 :::
