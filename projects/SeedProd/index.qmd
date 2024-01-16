@@ -3,7 +3,7 @@ title: "Effects of Community Context on Biodiversity-Ecosystem Function (BDEF)"
 image: "dbarb.jpeg"
 ---
 
-![](dbarb.jpeg)
+![](dbarb.jpeg){ width=50% }
 
 In this project, I examined how the plant and pollinator communities influenced the effects of an experimental manipulation in which researchers temporarily removed the most abundant bumble bee species to see how species loss affected seed production in *Delphinium barbeyi*, a common perennial wildflower. 
 
@@ -11,6 +11,6 @@ I found higher overall counts of fertilized *D. barbeyi* ovules at sites with a 
 
 I also found that both the total abundance of bumble bees (regardless of species) and the relative abundance of long-tongued bumble bees (those with proboscises well-suited to obtain nectar from *D. barbeyi*) influenced the effect of our manipulation on the production of fertilized ovules in our focal plants.
 
-![](bomabund-all.png) ![](tongue-all.png)
+![](bomabund-all.png){ width=50% } ![](tongue-all.png){ width=50% }
 
 This project was published in [Ecosphere in 2023](doi.org/10.1002/ecs2.4569).
