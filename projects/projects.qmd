@@ -12,6 +12,7 @@ listing:
       - Distribution
     type: grid
     grid-item-border: false
+    sort: false
   
   - id: phd
     max-description-length: 500
@@ -23,6 +24,7 @@ listing:
       - SeedProd
     type: grid
     grid-item-border: false
+    sort: false
     
 ---
 

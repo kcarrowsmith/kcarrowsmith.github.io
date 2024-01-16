@@ -1,52 +1,59 @@
 [
   {
-    "objectID": "projects/project_2/index.html",
-    "href": "projects/project_2/index.html",
-    "title": "project_2",
+    "objectID": "projects/Rewiring/index.html",
+    "href": "projects/Rewiring/index.html",
+    "title": "Spatial Variation in Plant-Pollinator Interactions",
     "section": "",
-    "text": "In this project I work on Machine Learning methods to predict in-hospital mortality."
+    "text": "In one chapter of my dissertation, I examined biotic and abiotic drivers of rewiring between plant-pollinator communities. One of my inspirations for conducting this project was my interest in interaction variation across spatial gradients. Prior studies have shown that rewiring increases with increasing distance between sites. I was curious what biotic and abiotic variables could underlie these spatial patterns.\nUsing a structural equation modeling framework, I found that temperature variation and plant community composition directly drove rewiring among 18 sites surrounding the Rocky Mountain Biological Laboratory. Interestingly, with these proximal drivers of plant-pollinator interaction rewiring included in my statistical models, geographic distance did not directly drive rewiring on its own; rather, it indirectly influenced rewiring via these two direct drivers.\n\nNext up for this project: I will be integrating pollen load data collected from the insect specimens in this project to see how pollen load trends and visitation trends vary across this gradient. I am particularly excited to be able to examine both individual-level and community-level foraging trends using these pollen loads."
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
+    "objectID": "projects/Distribution/index.html",
+    "href": "projects/Distribution/index.html",
+    "title": "Distribution of Plant-Pollinator Interactions",
     "section": "",
-    "text": "This is my ongoing work.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "In 2022, I received a Northwest Climate Adaptation Science Center fellowship to examine how climate change is likely to influence the distribution of bumble bees, their host plants, and the interactions between these two guilds. For this fellowship, I built species distribution models for two bumble bees designated Species of Greatest Conservation Need by the Washington Department of Fish and Wildlife—Bombus morrisoni and Bombus occidentalis—using data collected for the Pacific Northwest Bumble Bee Atlas.\nIn an ongoing extension of this project, I am evaluating how models that independently estimate plants’ and pollinators’ spatial distributions perform in predicting where interactions between specific plant and pollinator species occur."
   },
   {
-    "objectID": "projects/index.html#grid-listing",
-    "href": "projects/index.html#grid-listing",
-    "title": "Projects",
+    "objectID": "projects/projects.html",
+    "href": "projects/projects.html",
+    "title": "Research",
     "section": "",
-    "text": "This is an example of grid listing. You can specify the content in the yaml header in the .qmd file.\nIt is convenient to use id to link to multiple folders.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "These are just a few examples of my current work. My postdoctoral projects mainly focus on examining individual-level pollinator niche dynamics and how genetics, physiology, and environmental pressures influence these individual niches. Much of my work involves examining pollen collected by bees, and toward that end, I have begun exploring novel ways to improve pollen identification and quantification. I also have interests in climate-driven shifts in pollinator ranges and interactions.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/index.html#table-listing",
-    "href": "projects/index.html#table-listing",
-    "title": "Projects",
-    "section": "Table listing",
-    "text": "Table listing\nThis is an example of table listing.\n\nPackages\n\n\n\n\n\n\nTitle\n\n\nDescription\n\n\n\n\n\n\npkg_1\n\n\n\n\n\n\n\npkg_2\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "objectID": "projects/projects.html#current-projects",
+    "href": "projects/projects.html#current-projects",
+    "title": "Research",
+    "section": "",
+    "text": "These are just a few examples of my current work. My postdoctoral projects mainly focus on examining individual-level pollinator niche dynamics and how genetics, physiology, and environmental pressures influence these individual niches. Much of my work involves examining pollen collected by bees, and toward that end, I have begun exploring novel ways to improve pollen identification and quantification. I also have interests in climate-driven shifts in pollinator ranges and interactions.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/pkg_1/index.html",
-    "href": "projects/pkg_1/index.html",
-    "title": "pkg_1",
-    "section": "",
-    "text": "This package does this."
+    "objectID": "projects/projects.html#doctoral-projects",
+    "href": "projects/projects.html#doctoral-projects",
+    "title": "Research",
+    "section": "Doctoral Projects",
+    "text": "Doctoral Projects\nThese projects form the three chapters of my dissertation. Links to publications are included where appropriate. A full copy of my dissertation can be found here.\n\n\n\n\n\n\n\n\n\n\nSpatial Variation in Plant-Pollinator Interactions\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTemperature and Interaction Occurrence\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEffects of Community Context on Biodiversity-Ecosystem Function (BDEF)\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/project_1/index.html",
-    "href": "projects/project_1/index.html",
-    "title": "project_1",
+    "objectID": "projects/Bombus/index.html",
+    "href": "projects/Bombus/index.html",
+    "title": "Bumble Bee Niche Dynamics",
     "section": "",
-    "text": "In this project I use EHR to explore the hospital transfers."
+    "text": "As an NSF Postdoctoral Fellow, I will be examining how bumble bee niche dynamics are affected by genetics, temperature, body size, and phenology. In the summer of 2023, I am collecting pilot data at the Rocky Mountain Biological Laboratory in order to begin this project with Dr. Shalene Jha in the fall of 2023. I intend to collect data for this project in the summers of 2024 and 2025. Stay tuned here to see what I find!"
   },
   {
-    "objectID": "projects/pkg_2/index.html",
-    "href": "projects/pkg_2/index.html",
-    "title": "pkg_2",
+    "objectID": "projects/SeedProd/index.html",
+    "href": "projects/SeedProd/index.html",
+    "title": "Effects of Community Context on Biodiversity-Ecosystem Function (BDEF)",
     "section": "",
-    "text": "This package does this."
+    "text": "In this project, I examined how the plant and pollinator communities influenced the effects of an experimental manipulation in which researchers temporarily removed the most abundant bumble bee species to see how species loss affected seed production in Delphinium barbeyi, a common perennial wildflower.\nI found higher overall counts of fertilized D. barbeyi ovules at sites with a high proportion of flowers with similar corolla lengths, suggesting some degree of facilitation in terms of conspecific pollen transfer among plants with similarly specialized structures, rather than interspecific competition for pollinators with proboscises able to manipulate these long corollas.\nI also found that both the total abundance of bumble bees (regardless of species) and the relative abundance of long-tongued bumble bees (those with proboscises well-suited to obtain nectar from D. barbeyi) influenced the effect of our manipulation on the production of fertilized ovules in our focal plants.\nThis project was published in Ecosphere in 2023."
+  },
+  {
+    "objectID": "projects/Temperature/index.html",
+    "href": "projects/Temperature/index.html",
+    "title": "Temperature and Interaction Occurrence",
+    "section": "",
+    "text": "I have been interested in how rising temperatures, along with other consequences of climate change, are going to affect pollinators since my first experience in the world of pollination ecology—working in Dr. Claire Kremen’s lab at UC Berkeley in 2012. As a doctoral student, I was able to directly examine the effects of temperature on plant-pollination interaction occurrence. I surveyed plant-pollinator communities multiple times over the course of individual days in order to obtain a range of plant-pollinator interaction events at different temperatures, but within a constant plant community. This project worked in large part because of the high amount of thermal variation within individual days in the subalpine ecosystems found at the Rocky Mountain Biological Laboratory.\n\n\n\nEach line represents the temperature on a single day in 2021. The highlighted line shows the temperature for a single day—July 17, 2021.\n\n\nI found that temperature influences the distribution of interactions between particular pollinator taxa and the range of flowers available on discrete days. This research provides really interesting evidence that pollinator foraging preference may be influenced by the temperature at which pollinators are foraging.\nNext up for this project: I will extend this analysis to the pollen loads carried by the pollinators that I studied in order to see if the effects of ambient temperature can be seen not only in individual visitation events but also in overall pollen carriage. I also hope to eventually examine variation in floral rewards (pollen nutrient content, nectar volume and sugar concentration) across different temperatures in this system in order to connect the trends that I have observed with specific mechanistic drivers."
   },
   {
     "objectID": "talks/index.html",
@@ -77,6 +84,13 @@
     "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dr. Kaysee Arrowsmith",
+    "section": "",
+    "text": "Hello! I am a community ecologist studying variation in plant-pollinator interactions. I am currently an NSF Postdoctoral Fellow at the University of Texas with Dr. Shalene Jha. Previously, I worked with Dr. Berry Brosi at Emory University and the University of Washington, where I received my PhD in July 2023.\nThis website is currently under construction. If you do not see what you are looking for here, please email me at kcarrows [at] utexas [dot] edu."
+  },
+  {
     "objectID": "blog/post-with-code/index.html",
     "href": "blog/post-with-code/index.html",
     "title": "Post With Code",
@@ -98,88 +112,18 @@
     "text": "CV\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     Github\n  \n\n  \n  \n\n\nUniversity of Texas | Austin, TX\nNSF Post-Doctoral Research Fellow\n\n\n\nUniversity of Washington | Seattle, WA\nPhD in Biology, 2023\nColumbia University | New York, NY\nMPA in Environmental Science and Policy, 2014\nUniversity of California, Berkeley | Berkeley, CA\nBS in Environmental Science, 2013\n\n\n\nArrowsmith, K.C., V.A. Reynolds, H.M. Briggs, & B.J. Brosi. Community con- text mediates effects of pollinator loss on seed production. Ecosphere 14(6):e4569. http://doi.org/10.1002/ecs2.4569\nSardiñas, H., K.C. Tom, L. Ponisio, A. Rominger, & C. Kremen. 2016. Sunflower (Helianthus annuus) pollination in California’s Central Valley is limited by native bee nest site location. Ecological Applications 26(2):438-447. http://doi.org/10.1890/15-0033"
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About",
-    "section": "",
-    "text": "University of Washington | Seattle, WA\nPhD in Biology, 2023\nColumbia University | New York, NY\nMPA in Environmental Science and Policy, 2014\nUniversity of California, Berkeley | Berkeley, CA\nBS in Environmental Science, 2013"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "Author",
-    "section": "",
-    "text": "I have developed X R packages, published Y papers."
-  },
-  {
-    "objectID": "about_template.html",
-    "href": "about_template.html",
-    "title": "About this template",
-    "section": "",
-    "text": "About this template\n\n\n\nThis page contains some elaborated background information about your workshop, or the instructors.\n\n\nThis is to demonstrate how to make a drop-down page from the navigation bar."
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Read more about Quarto blogs here.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\n\n\n\n\nOct 25, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\n\n\n\n\nOct 22, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Dr. Kaysee Arrowsmith",
-    "section": "",
-    "text": "Hello! I am a community ecologist studying variation in plant-pollinator interactions. I am currently an NSF Postdoctoral Fellow at the University of Texas with Dr. Shalene Jha. Previously, I worked with Dr. Berry Brosi at Emory University and the University of Washington, where I received my PhD in July 2023.\nThis website is currently under construction. If you do not see what you are looking for here, please email me at kcarrows [at] utexas [dot] edu."
-  },
-  {
-    "objectID": "projects/index.html#doctoral-projects",
-    "href": "projects/index.html#doctoral-projects",
-    "title": "Projects",
-    "section": "Doctoral Projects",
-    "text": "Doctoral Projects\nThese projects form the three chapters of my dissertation.\n\n\n\n\n\n\n\n\n\n\nproject_1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nproject_2\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/index.html#current-projects",
-    "href": "projects/index.html#current-projects",
-    "title": "Projects",
-    "section": "",
-    "text": "This is my ongoing work.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "home.html",
-    "href": "home.html",
-    "title": "Dr. Kaysee Arrowsmith",
-    "section": "",
-    "text": "Hello! I am a community ecologist studying variation in plant-pollinator interactions. I recently finished my PhD at the University of Washington and will be starting an NSF post-doc at the University of Texas with Dr. Shalene Jha in September 2023.\n \n    \n  \n    \n     Github"
-  },
-  {
-    "objectID": "projects/projects.html",
-    "href": "projects/projects.html",
-    "title": "Research",
-    "section": "",
-    "text": "These are just a few examples of my current work. My postdoctoral projects mainly focus on examining individual-level pollinator niche dynamics and how genetics, physiology, and environmental pressures influence these individual niches. Much of my work involves examining pollen collected by bees, and toward that end, I have begun exploring novel ways to improve pollen identification and quantification. I also have interests in climate-driven shifts in pollinator ranges and interactions.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/projects.html#current-projects",
-    "href": "projects/projects.html#current-projects",
-    "title": "Research",
-    "section": "",
-    "text": "These are just a few examples of my current work. My postdoctoral projects mainly focus on examining individual-level pollinator niche dynamics and how genetics, physiology, and environmental pressures influence these individual niches. Much of my work involves examining pollen collected by bees, and toward that end, I have begun exploring novel ways to improve pollen identification and quantification. I also have interests in climate-driven shifts in pollinator ranges and interactions.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/projects.html#doctoral-projects",
-    "href": "projects/projects.html#doctoral-projects",
-    "title": "Research",
-    "section": "Doctoral Projects",
-    "text": "Doctoral Projects\nThese projects form the three chapters of my dissertation. Links to publications are included where appropriate. A full copy of my dissertation can be found here.\n\n\n\n\n\n\n\n\n\n\nEffects of Community Context on Biodiversity-Ecosystem Function (BDEF)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpatial Variation in Plant-Pollinator Interactions\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTemperature and Interaction Occurrence\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "about.html#academic-appointments",
     "href": "about.html#academic-appointments",
     "title": "About",
     "section": "",
     "text": "University of Texas | Austin, TX\nNSF Post-Doctoral Research Fellow"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "University of Washington | Seattle, WA\nPhD in Biology, 2023\nColumbia University | New York, NY\nMPA in Environmental Science and Policy, 2014\nUniversity of California, Berkeley | Berkeley, CA\nBS in Environmental Science, 2013"
   },
   {
     "objectID": "about.html#peer-reviewed-publications",
@@ -189,38 +133,10 @@
     "text": "Arrowsmith, K.C., V.A. Reynolds, H.M. Briggs, & B.J. Brosi. Community con- text mediates effects of pollinator loss on seed production. Ecosphere 14(6):e4569. http://doi.org/10.1002/ecs2.4569\nSardiñas, H., K.C. Tom, L. Ponisio, A. Rominger, & C. Kremen. 2016. Sunflower (Helianthus annuus) pollination in California’s Central Valley is limited by native bee nest site location. Ecological Applications 26(2):438-447. http://doi.org/10.1890/15-0033"
   },
   {
-    "objectID": "projects/Temperature/index.html",
-    "href": "projects/Temperature/index.html",
-    "title": "Temperature and Interaction Occurrence",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "I have been interested in how rising temperatures, along with other consequences of climate change, are going to affect pollinators since my first experience in the world of pollination ecology—working in Dr. Claire Kremen’s lab at UC Berkeley in 2012. As a doctoral student, I was able to directly examine the effects of temperature on plant-pollination interaction occurrence. I surveyed plant-pollinator communities multiple times over the course of individual days in order to obtain a range of plant-pollinator interaction events at different temperatures, but within a constant plant community. This project worked in large part because of the high amount of thermal variation within individual days in the subalpine ecosystems found at the Rocky Mountain Biological Laboratory.\n\n\n\nEach line represents the temperature on a single day in 2021. The highlighted line shows the temperature for a single day—July 17, 2021.\n\n\nI found that temperature influences the distribution of interactions between particular pollinator taxa and the range of flowers available on discrete days. This research provides really interesting evidence that pollinator foraging preference may be influenced by the temperature at which pollinators are foraging.\nNext up for this project: I will extend this analysis to the pollen loads carried by the pollinators that I studied in order to see if the effects of ambient temperature can be seen not only in individual visitation events but also in overall pollen carriage. I also hope to eventually examine variation in floral rewards (pollen nutrient content, nectar volume and sugar concentration) across different temperatures in this system in order to connect the trends that I have observed with specific mechanistic drivers."
-  },
-  {
-    "objectID": "projects/Rewiring/index.html",
-    "href": "projects/Rewiring/index.html",
-    "title": "Spatial Variation in Plant-Pollinator Interactions",
-    "section": "",
-    "text": "In one chapter of my dissertation, I examined biotic and abiotic drivers of rewiring between plant-pollinator communities. One of my inspirations for conducting this project was my interest in interaction variation across spatial gradients. Prior studies have shown that rewiring increases with increasing distance between sites. I was curious what biotic and abiotic variables could underlie these spatial patterns.\nUsing a structural equation modeling framework, I found that temperature variation and plant community composition directly drove rewiring among 18 sites surrounding the Rocky Mountain Biological Laboratory. Interestingly, with these proximal drivers of plant-pollinator interaction rewiring included in my statistical models, geographic distance did not directly drive rewiring on its own; rather, it indirectly influenced rewiring via these two direct drivers.\n\nNext up for this project: I will be integrating pollen load data collected from the insect specimens in this project to see how pollen load trends and visitation trends vary across this gradient. I am particularly excited to be able to examine both individual-level and community-level foraging trends using these pollen loads."
-  },
-  {
-    "objectID": "projects/Distribution/index.html",
-    "href": "projects/Distribution/index.html",
-    "title": "Distribution of Plant-Pollinator Interactions",
-    "section": "",
-    "text": "In 2022, I received a Northwest Climate Adaptation Science Center fellowship to examine how climate change is likely to influence the distribution of bumble bees, their host plants, and the interactions between these two guilds. For this fellowship, I built species distribution models for two bumble bees designated Species of Greatest Conservation Need by the Washington Department of Fish and Wildlife—Bombus morrisoni and Bombus occidentalis—using data collected for the Pacific Northwest Bumble Bee Atlas.\nIn an ongoing extension of this project, I am evaluating how models that independently estimate plants’ and pollinators’ spatial distributions perform in predicting where interactions between specific plant and pollinator species occur."
-  },
-  {
-    "objectID": "projects/Bombus/index.html",
-    "href": "projects/Bombus/index.html",
-    "title": "Bumble Bee Niche Dynamics",
-    "section": "",
-    "text": "As an NSF Postdoctoral Fellow, I will be examining how bumble bee niche dynamics are affected by genetics, temperature, body size, and phenology. In the summer of 2023, I am collecting pilot data at the Rocky Mountain Biological Laboratory in order to begin this project with Dr. Shalene Jha in the fall of 2023. I intend to collect data for this project in the summers of 2024 and 2025. Stay tuned here to see what I find!"
-  },
-  {
-    "objectID": "projects/SeedProd/index.html",
-    "href": "projects/SeedProd/index.html",
-    "title": "Effects of Community Context on Biodiversity-Ecosystem Function (BDEF)",
-    "section": "",
-    "text": "In this project, I examined how the plant and pollinator communities influenced the effects of an experimental manipulation in which researchers temporarily removed the most abundant bumble bee species to see how species loss affected seed production in Delphinium barbeyi, a common perennial wildflower.\nI found higher overall counts of fertilized D. barbeyi ovules at sites with a high proportion of flowers with similar corolla lengths, suggesting some degree of facilitation in terms of conspecific pollen transfer among plants with similarly specialized structures, rather than interspecific competition for pollinators with proboscises able to manipulate these long corollas.\nI also found that both the total abundance of bumble bees (regardless of species) and the relative abundance of long-tongued bumble bees (those with proboscises well-suited to obtain nectar from D. barbeyi) influenced the effect of our manipulation on the production of fertilized ovules in our focal plants.\nThis project was published in Ecosphere in 2023."
+    "text": "Read more about Quarto blogs here.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\n\n\n\n\nOct 25, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\n\n\n\n\nOct 22, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   }
 ]

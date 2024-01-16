@@ -1,9 +1,12 @@
 [
   {
-    "listing": "/projects/index.html",
+    "listing": "/projects/projects.html",
     "items": [
-      "/projects/project_1/index.html",
-      "/projects/project_2/index.html"
+      "/projects/Bombus/index.html",
+      "/projects/Distribution/index.html",
+      "/projects/Rewiring/index.html",
+      "/projects/Temperature/index.html",
+      "/projects/SeedProd/index.html"
     ]
   },
   {
@@ -18,16 +21,6 @@
     "items": [
       "/blog/post-with-code/index.html",
       "/blog/welcome/index.html"
-    ]
-  },
-  {
-    "listing": "/projects/projects.html",
-    "items": [
-      "/projects/Bombus/index.html",
-      "/projects/Distribution/index.html",
-      "/projects/SeedProd/index.html",
-      "/projects/Rewiring/index.html",
-      "/projects/Temperature/index.html"
     ]
   }
 ]
