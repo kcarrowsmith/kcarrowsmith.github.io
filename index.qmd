@@ -5,7 +5,10 @@ about:
   id: hero-heading
   template: marquee
   image-shape: rectangle
+
 ---
+
+<meta name="google-site-verification" content="O-q3nxNclToq66v3YSTJcQHgirED5Gn2dC9u1pbSg-c" />
 
 ::: {#hero-heading}
 Hello! I am a community ecologist studying variation in plant-pollinator interactions. I am currently an NSF Postdoctoral Fellow at the University of Texas with [Dr. Shalene Jha](https://w3.biosci.utexas.edu/jha/). Previously, I worked with [Dr. Berry Brosi](https://www.brosilab.org/) at Emory University and the University of Washington, where I received my PhD in July 2023.
