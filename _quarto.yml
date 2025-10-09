@@ -13,11 +13,13 @@ website:
         file: about.qmd 
       - text: "Projects"
         href: projects/projects.qmd
+      - text: "Entomology"
+        href: entomology.qmd
   title: "Dr. Kaysee Arrowsmith"
   google-analytics: "G-KEV0JKQP24"
 
   page-footer:
-    left: "&copy; Copyright 2024, Kaysee Arrowsmith"
+    left: "&copy; Copyright 2025, Kaysee Arrowsmith"
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
 
   sidebar:
