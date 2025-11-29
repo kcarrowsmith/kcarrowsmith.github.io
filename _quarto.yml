@@ -20,7 +20,6 @@ website:
 
   page-footer:
     left: "&copy; Copyright 2025, Kaysee Arrowsmith"
-    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
 
   sidebar:
     pinned: true
